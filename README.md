@@ -55,9 +55,7 @@ This program has two functions:
 
    *Note: CSV cannot change the above data types. Changing meteorological data must comply with the calculation rules of Ladybug model (for details, refer to the source code or instructions of epw model on ladybug tools github).*
 
-
-
-
+---------------------------------------------------------------------------------------------------------------------
 
 # EPW_Editor的中文描述
 
@@ -118,9 +116,6 @@ This program has two functions:
   *注: CSV不可更改上述数据类型. 更改气象数据要符合Ladybug model的计算规则(具体参照ladybug tools github关于epw model的源码或说明).*
 
 
-
 本程序参照了Grasshopper的Ladybug Tools插件中Dragonfly的DF creat epw电池的部分代码.
-
-
 
 This program refers to part of the code of Dragonfly's DF creat epw battery in Grasshopper's Ladybug Tools plug-in.
