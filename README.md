@@ -14,9 +14,9 @@ This program has two functions:
 
    + relative_humidity
 
-   +wind_speed
+   + wind_speed
 
-   +wind_direction
+   + wind_direction
 
    + direct_normal_radiation
 
@@ -57,7 +57,11 @@ This program has two functions:
 
 This program refers to part of the code of Dragonfly's DF creat epw battery in Grasshopper's Ladybug Tools plug-in.
 
----------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 # EPW_Editor的中文描述
 
