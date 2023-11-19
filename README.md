@@ -24,7 +24,7 @@ This program has two functions:
 
    + global_horizontal_radiation
 
-   + horizontal_infrared_radiation_intensity",
+   + horizontal_infrared_radiation_intensity,
 
    + direct_normal_illuminance
 
@@ -90,7 +90,7 @@ This program refers to part of the code of Dragonfly's DF creat epw battery in G
 
   + global_horizontal_radiation
 
-  + horizontal_infrared_radiation_intensity",
+  + horizontal_infrared_radiation_intensity,
 
   + direct_normal_illuminance
 
