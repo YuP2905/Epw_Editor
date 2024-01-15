@@ -65,12 +65,12 @@ This program refers to part of the code of Dragonfly's DF creat epw battery in G
 
 # EPW_Editor的中文描述
 
-本程序解压后, 直接运行exe文件即可运行.
+本程序解压后, 在解压文件夹内运行exe文件即可.
 
 
 本程序有两个功能:
 
-+ 可以基于上传的EPW文件, 导出复合该EPW文件数据的CSV文件.  
++ 可以基于上传的EPW文件, 导出符合该EPW文件数据的CSV文件.  
 
   其CSV文件内包含的EPW的数据类型如下:
 
@@ -119,7 +119,7 @@ This program refers to part of the code of Dragonfly's DF creat epw battery in G
 
 + 可以基于更改过后的CSV文件, 生成符合CSV文件数据的新的EPW文件. *(注: 需要上传要更改的EPW文件)*
 
-  *注: CSV不可更改上述数据类型. 更改气象数据要符合Ladybug model的计算规则(具体参照  ladybug tools github关于epw model的源码或说明).*
+  *注: CSV不可更改上述数据的数据类型. 更改气象数据要符合Ladybug model的计算规则(具体参照  ladybug tools github关于epw model的源码或说明).*
 
 
 本程序参照了Grasshopper的Ladybug Tools插件中Dragonfly的DF creat epw电池的部分代码.
