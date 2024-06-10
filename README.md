@@ -1,5 +1,5 @@
 # English Description of EPW_Editor 
-After cloning this program, run the exe file directly to run it.
+After cloning this program, run the exe file.
 
 
 This program has two functions:
